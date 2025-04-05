@@ -18,8 +18,7 @@
 
 📫 **Let's connect!**
 - Email: biswarupk@iisc.ac.in
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) *(if applicable)*
+
 
 ---
 
