@@ -13,8 +13,7 @@
 
 ⚽ Outside academia, I enjoy:
 - Playing football  🥅
-- Exploring tech and building cool projects 💻
-- Spending time reflecting on ideas and learning continuously 📚
+
 
 📫 **Let's connect!**
 - Email: biswarupk@iisc.ac.in
